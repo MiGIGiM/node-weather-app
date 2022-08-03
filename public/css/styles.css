@@ -58,3 +58,7 @@ button {
     background: #888;
     transition: background 150ms;
 }
+
+button:hover {
+    background: royalblue;
+}
